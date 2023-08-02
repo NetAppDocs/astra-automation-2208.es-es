@@ -903,7 +903,6 @@
   <block id="cea5f66f37995fb196323018a31600fc" category="cell">Contiene la dirección URL completa del recurso recién creado.</block>
   <block id="6e2102ce7d7573c8b221194a86f7a48b" category="section-title">Parámetros de consulta</block>
   <block id="7fec4843ebac2572cb7aba56b67d7ddb" category="inline-link-macro">Trabajar con colecciones</block>
-  <block id="b206801753ef0a6abfae5904e5c68a57" category="paragraph">Los siguientes parámetros de consulta están disponibles para su uso con colecciones de recursos. Consulte <block ref="114f30b2f00431234237350f516a01cf" category="inline-link-macro-rx"></block> si quiere más información.</block>
   <block id="ce73e1ed10f91fd167ae3d5803ce8dff" category="cell">Parámetro de consulta</block>
   <block id="4d0d3b0c69167fef7204e14c4e946c15" category="cell">Contiene los campos que se deben devolver al leer una colección.</block>
   <block id="c6960e489ca14167f9bd9ace657e6790" category="cell">Indica los campos que deben coincidir para que se devuelva un recurso al leer una colección.</block>
@@ -916,7 +915,6 @@
   <block id="16bd6f56e0279353c2bf47e3b1d13c41" category="cell">Indica si se debe devolver el número total de recursos en el objeto de metadatos.</block>
   <block id="2974f783f17d54a41f4040c8daa90545" category="section-title">códigos de estado HTTP</block>
   <block id="175b29f6f8dd1aa8a166427b6bcd061c" category="paragraph">A continuación se describen los códigos de estado HTTP utilizados por la API DE REST de Astra Control.</block>
-  <block id="ef69df9e80d5e1591d22bfe189aa737e" category="admonition">La API REST de Astra Control también utiliza el estándar *Detalles del problema para API de HTTP*. Consulte <block ref="d9c154af7dec160f41ead610ccb970e9" category="inline-link-macro-rx"></block> si quiere más información.</block>
   <block id="ca0dbad92a874b2f69b549293387925e" category="cell">Codificación</block>
   <block id="7277de5f2ed6f17c61f1f25594591a82" category="cell">Significado</block>
   <block id="3644a684f98ea8fe223c713b77189a77" category="cell">200</block>
@@ -1077,4 +1075,6 @@
   <block id="35ae08a314ffffc02580e3c3fbfad924" category="sidebar">Funciones y beneficios</block>
   <block id="365c8dec8255a8a164436c71a2611920" category="sidebar">Uso de Python</block>
   <block id="35bcd8d33247c44923eb71df2f2f0a2d" category="sidebar">Python nativo</block>
+  <block id="c41fa1ca9e61ce922033f50c259cb7a3" category="paragraph">Los siguientes parámetros de consulta están disponibles para su uso con colecciones de recursos. Consulte <block ref="69d3926f8a91301f2a5a5c3d61b27821" category="inline-link-macro-rx"></block> si quiere más información.</block>
+  <block id="d9a8eedd670f58ed76d5ae881e6d4469" category="admonition">La API REST de Astra Control también utiliza el estándar *Detalles del problema para API de HTTP*. Consulte <block ref="e560597744bc7b2711ae89c683c4035f" category="inline-link-macro-rx"></block> si quiere más información.</block>
 </blocks>
